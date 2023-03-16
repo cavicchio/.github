@@ -1,5 +1,7 @@
 # GitHub Workflow Templates
 
+To use a workflow template created here in another repository, click the **Actions** tab in that repository. These workflows will appear under the **By Cavicchio Greenhouses, Inc.** header. Click **Configure** to set up that workflow for the project.
+
 ## Docker Build
 
 Uses the project's Dockerfile to build the source into a Docker image, then push it to the GitHub Container Registry.
