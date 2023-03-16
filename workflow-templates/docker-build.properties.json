@@ -1,0 +1,12 @@
+{
+    "name": "Cavicchio Docker Build Workflow",
+    "description": "Build project into a Docker image and push to the GitHub Container Registry.",
+    "iconName": "octicon container",
+    "categories": [
+        "continuous-integration",
+        "Dockerfile"
+    ],
+    "filePatterns": [
+        "^Dockerfile"
+    ]
+}
